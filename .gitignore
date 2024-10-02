@@ -1,0 +1,7 @@
+LIB/
+MicroPro-RP2040-backups/
+fp-info-cache
+*.bak
+*.kicad_sch-bak
+*.xml
+*.lck
