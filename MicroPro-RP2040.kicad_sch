@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "MicroPro RP2040")
-		(date "2024-10-02")
-		(rev "v0.1")
+		(date "2024-10-03")
+		(rev "v1.0")
 		(comment 3 "Author: Xiaotian Guan")
 		(comment 4 "MicroPro RP2040 schematics")
 	)
@@ -12176,6 +12176,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 48.26 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "351e8f7b-4019-4d48-b677-3952bf2f2d5e")
 		)
@@ -12311,6 +12320,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 17.78 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "111c5a91-30a0-44d3-a522-eae41e18dfc7")
 		)
@@ -12373,6 +12391,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 86.36 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 86.36 146.05 0)
 			(effects
 				(font
@@ -12581,6 +12608,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 259.08 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f895131c-6c71-4c43-bd64-ad2ca06e2bef")
 		)
@@ -12643,6 +12679,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 259.08 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 259.08 177.8 0)
 			(effects
 				(font
@@ -12714,6 +12759,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 166.37 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ecf04d1c-96bb-4b50-80bf-87c7f07ce17d")
 		)
@@ -12776,6 +12830,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 273.05 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 273.05 92.71 0)
 			(effects
 				(font
@@ -12918,6 +12981,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 27.94 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 27.94 124.46 0)
 			(effects
 				(font
@@ -13118,6 +13190,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 88.9 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 88.9 29.21 0)
 			(effects
 				(font
@@ -13327,6 +13408,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 255.27 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "50469d77-9f72-400f-90a0-6b8ecd78608b")
 		)
@@ -13461,6 +13551,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 168.91 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0a4b8bda-dfea-4497-b6c0-0e9ee6100159")
 		)
@@ -13587,6 +13686,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller, 2.0 x 2.0 mm, 12 mA"
+			(at 222.25 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 222.25 33.02 0)
 			(effects
 				(font
@@ -13995,6 +14103,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" "C0G dielectric"
+			(at 24.13 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "268df68f-395d-49ef-9a55-5413c401bc13")
 		)
@@ -14187,6 +14304,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 27.94 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 27.94 146.05 0)
 			(effects
 				(font
@@ -14392,6 +14518,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 186.69 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "cb986801-c506-42c5-9ccb-a5a1271b41d8")
 		)
@@ -14454,6 +14589,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 17.78 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 17.78 146.05 0)
 			(effects
 				(font
@@ -14598,6 +14742,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 210.82 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5a0d8a90-793e-48eb-ae38-34568be35187")
 		)
@@ -14632,7 +14785,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ADS7044IRUGR"
+		(property "Value" "ADS7042IRUGR"
 			(at 244.7641 124.46 0)
 			(effects
 				(font
@@ -14651,7 +14804,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ads7044.pdf"
+		(property "Datasheet" ""
 			(at 257.81 318.11 0)
 			(effects
 				(font
@@ -14661,7 +14814,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Ultra-Low-Power Ultra-Small-Size SAR ADC | 12 Bit | 1MSPS | Fully Differential"
+		(property "Description" ""
 			(at 231.14 130.81 0)
 			(effects
 				(font
@@ -14680,7 +14833,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "595-ADS7044IRUGR"
+		(property "Mouser Part Number" ""
 			(at 257.81 618.11 0)
 			(effects
 				(font
@@ -14690,7 +14843,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/ADS7044IRUGR?qs=pqSajtDZXRW2fmvKMvLQzw%3D%3D"
+		(property "Mouser Price/Stock" ""
 			(at 257.81 718.11 0)
 			(effects
 				(font
@@ -14710,13 +14863,22 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ADS7044IRUGR"
+		(property "Manufacturer_Part_Number" "ADS7042IRUGR"
 			(at 257.81 918.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
+			(at 231.14 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -14937,6 +15099,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 139.7 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3221d857-91b5-438a-8a39-3b21f01d0133")
 		)
@@ -14999,6 +15170,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 200.66 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 200.66 134.62 0)
 			(effects
 				(font
@@ -15205,6 +15385,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 30.48 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "EXB-V4V270JV"
+			(at 30.48 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7b64657c-fe1a-4725-931d-1840c18b8dca")
 		)
@@ -15401,6 +15599,24 @@
 			)
 		)
 		(property "Description" "600mA low dropout linear regulator, with enable pin, 3.8V-6V input voltage range, 3.3V fixed positive output, SOT-23-5"
+			(at 166.37 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
+			(at 166.37 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "AP2112K-3.3TRG1"
 			(at 166.37 29.21 0)
 			(effects
 				(font
@@ -15735,6 +15951,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 138.43 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "e5582c87-c967-417a-a08f-2346d9507f93")
 		)
@@ -15894,6 +16119,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 44.45 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6ca97422-ffee-4fc5-ad64-0b693ec80224")
 		)
@@ -15952,6 +16186,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 193.04 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 193.04 33.02 0)
 			(effects
 				(font
@@ -16153,6 +16396,24 @@
 			)
 		)
 		(property "Description" "128Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8"
+			(at 156.21 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
+			(at 156.21 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "W25Q128JVPIM"
 			(at 156.21 82.55 0)
 			(effects
 				(font
@@ -16409,7 +16670,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "1.5n"
 			(at 185.42 138.4362 0)
 			(effects
 				(font
@@ -16437,6 +16698,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 182.88 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" "C0G dielectric"
 			(at 182.88 137.16 0)
 			(effects
 				(font
@@ -16645,6 +16915,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 96.52 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e75f28e1-9739-4c8b-9477-141651981f9c")
 		)
@@ -16715,6 +16994,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 58.42 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a673ecd0-dc01-4e88-b609-8e3706be9633")
 		)
@@ -16776,6 +17064,15 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
+			(at 248.92 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 248.92 73.66 0)
 			(effects
 				(font
@@ -16916,6 +17213,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 68.58 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "SM04B-SRSS-TB(LF)(SN)(P)"
+			(at 68.58 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7ba7d151-15d1-4b2f-97c1-fc7fe2a4513c")
 		)
@@ -16984,6 +17299,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 38.1 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 38.1 146.05 0)
 			(effects
 				(font
@@ -17118,6 +17442,15 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
+			(at 173.99 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 173.99 69.85 0)
 			(effects
 				(font
@@ -17261,6 +17594,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 270.51 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "228eccae-59ae-4e06-8982-0bb6b484f785")
 		)
@@ -17321,6 +17663,15 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x12, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 34.29 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 34.29 179.07 0)
 			(effects
 				(font
@@ -17462,6 +17813,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 80.01 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d875b9c4-44cc-43ce-bd33-e60d0639f772")
 		)
@@ -17594,6 +17954,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" "C0G dielectric"
+			(at 24.13 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bd79b085-5bdb-41ae-88d7-c42664a45ac1")
 		)
@@ -17628,7 +17997,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "1.47k"
 			(at 271.78 129.5399 0)
 			(effects
 				(font
@@ -17656,6 +18025,15 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
+			(at 269.24 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 269.24 128.27 0)
 			(effects
 				(font
@@ -17725,6 +18103,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 44.45 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 44.45 110.49 0)
 			(effects
 				(font
@@ -17840,13 +18227,22 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "CAT16-1003F4LF"
+		(property "Manufacturer_Part_Number" "CAT16-1002F4LF"
 			(at 96.52 965.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
+			(at 113.03 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -17994,6 +18390,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 130.81 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 130.81 73.66 0)
 			(effects
 				(font
@@ -18265,6 +18670,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 144.78 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "PMEG2005EJ-QX"
+			(at 144.78 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "31fda524-c573-4cdd-ae22-57b7cf7f56ba")
 		)
@@ -18326,6 +18749,15 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
+			(at 241.3 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 241.3 73.66 0)
 			(effects
 				(font
@@ -18468,6 +18900,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 176.53 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d66681a7-99e4-4bbe-89c5-5b76a21ebce7")
 		)
@@ -18538,6 +18979,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 106.68 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9e8dfdf8-2c87-432e-ab51-b2d849a1437d")
 		)
@@ -18600,6 +19050,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 68.58 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 68.58 146.05 0)
 			(effects
 				(font
@@ -18875,6 +19334,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 222.25 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5c84ada2-0ea0-471c-9fc4-bcf39e8e3dda")
 		)
@@ -18935,6 +19403,24 @@
 			)
 		)
 		(property "Description" "3.000V Precision Micropower Shunt Voltage Reference, SC-70"
+			(at 269.24 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
+			(at 269.24 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "LM4040A30IDCKR"
 			(at 269.24 138.43 0)
 			(effects
 				(font
@@ -19144,6 +19630,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 153.67 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 153.67 33.02 0)
 			(effects
 				(font
@@ -19410,6 +19905,15 @@
 			)
 		)
 		(property "Description" "A microcontroller by Raspberry Pi"
+			(at 72.39 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 72.39 80.01 0)
 			(effects
 				(font
@@ -19715,6 +20219,24 @@
 				(hide yes)
 			)
 		)
+		(property "Comments" ""
+			(at 133.35 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "  SMD0603B050TF"
+			(at 133.35 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bca37ac9-1a73-4f14-bf33-a3b7a3363581")
 		)
@@ -19774,6 +20296,15 @@
 			)
 		)
 		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
+			(at 213.36 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 213.36 76.2 0)
 			(effects
 				(font
@@ -19990,7 +20521,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "24.9"
 			(at 177.8 134.366 90)
 			(effects
 				(font
@@ -20017,6 +20548,15 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
+			(at 177.8 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 177.8 132.08 0)
 			(effects
 				(font
@@ -20149,6 +20689,24 @@
 			)
 		)
 		(property "Description" "Four pin crystal, GND on pins 2 and 4, small symbol"
+			(at 30.48 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
+			(at 30.48 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ABM8-272-T3"
 			(at 30.48 92.71 0)
 			(effects
 				(font
@@ -20418,6 +20976,15 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
+			(at 41.91 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
 			(at 41.91 97.79 0)
 			(effects
 				(font
