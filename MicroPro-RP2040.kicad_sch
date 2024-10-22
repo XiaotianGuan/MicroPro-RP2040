@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "MicroPro RP2040")
-		(date "2024-10-05")
+		(date "2024-10-17")
 		(rev "v1.1")
 		(comment 3 "Author: Xiaotian Guan")
 		(comment 4 "MicroPro RP2040 schematics")
@@ -14451,7 +14451,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "5.1k"
 			(at 186.69 28.956 90)
 			(effects
 				(font

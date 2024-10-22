@@ -1,4 +1,5 @@
 LIB/
+gerber/outdated/
 MicroPro-RP2040-backups/
 fp-info-cache
 *.bak
