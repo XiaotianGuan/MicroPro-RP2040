@@ -13,6 +13,9 @@ The analog pins of the RP2040 (GP26-GP29) are directly wired to the board's pads
 By default, this board should behave no differently than the original. To use the stand-alone ADC, you need to first configure the multiplexer to connect the right pin to the ADC and set the corresponding RP2040 pin to input. This provides better ADC performance, and in theory can achieve 1M sampling rate, double what the on board ADC can do. (Not tested yet.) Though the input filter may need to be redesigned for such high sampling rate.
 
 **Differences**
+
+
+
 Though this board is designed to be compatible with Sparkfun ProMicro RP2040, there are a number of differences. First, most significantly, this is a double sided board. Therefore by default it does not have castellated pads, thought a castellated footprint is provided. Second, the push buttons are not the same part used on the Sparkfun board. They're smaller and not as tall, but are at the same position. Third, the pull-up resistance for the qwiic connector is 10k instead of 2.2k, which may limit the maximum I2C clockrate.
 
 ![[front]](.pic/front-1200px.jpg)
